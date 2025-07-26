@@ -1,0 +1,47 @@
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Environment variables and secrets
+.env
+*.env.*
+serviceAccount.json
+
+# Dependency directories
+node_modules/
+packages/
+
+# Generated files
+*.generated.cs
+*.g.cs
+*.g.i.cs
+
+# Swagger files
+swagger/
+swagger-ui/
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# OS-specific files
+Thumbs.db
+.DS_Store
