@@ -23,6 +23,7 @@ obj/
 .env
 *.env.*
 serviceAccount.json
+firebase-service-account
 
 # Dependency directories
 node_modules/
